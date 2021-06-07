@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Harina 0000",
+      "precio": "66666666666",
+      "id": 1
+    },
+    {
+      "nombre": "Flan",
+      "precio": 99,
+      "id": 2
+    },
+    {
+      "nombre": "Cacao",
+      "precio": 66,
+      "id": 3
+    },
+    {
+      "nombre": "Soja",
+      "precio": 68,
+      "id": 5
+    }
+  ]
+}
